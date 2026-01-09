@@ -1,80 +1,107 @@
-## Hi there 👋 I'm Anshu Kumar  
+<h1 align="center">
+  Hi there 👋, I'm <span style="color:#4CAF50;">Anshu Kumar</span> 🚀
+</h1>
 
-🎓 **B.Tech CSE (2023–2027)** | Bihar Engineering University, Patna  
-💻 **Frontend Developer | Aspiring Data Scientist | AI & NLP Enthusiast**  
-📍 Bihar, India  
+<h3 align="center">
+  💻 Frontend Developer | 🤖 AI & NLP Explorer | 📊 Data Science Learner
+</h3>
 
----
-
-### 🚀 About Me  
-I’m an **aspiring Frontend Developer and Data Science learner** with strong foundations in **C, C++, Python, and Data Structures & Algorithms**.  
-I enjoy building **responsive, interactive web interfaces** and exploring how **AI & data** can be used to create intelligent, user-centric applications.  
-
-I have hands-on experience through **industry-oriented internships** and projects, and I’m always eager to **learn, build, and grow** in Web Development, AI, and Data Science.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&width=500&lines=Building+the+Web+with+Creativity;Exploring+AI+with+Curiosity;Learning+Every+Single+Day+🚀;Turning+Ideas+into+Reality+✨" />
+</p>
 
 ---
 
-### 🛠️ Technical Skills  
+### 🌟 About Me  
 
-**Programming & CS Fundamentals**  
-- C, C++, Python  
-- Data Structures & Algorithms (DSA)  
-- Object-Oriented Programming (OOPs)  
+✨ I am an **aspiring Frontend Developer and Data Science learner** with a strong base in  
+**C, C++, Python, and Data Structures & Algorithms**.  
 
-**Web Development**  
-- HTML5, CSS3  
-- Tailwind CSS  
-- JavaScript (ES6+)  
+🎨 I love designing **responsive, interactive web interfaces** and exploring how  
+**AI, NLP, and data** can create intelligent, user-centric solutions.  
 
-**Tools & Technologies**  
-- Git & GitHub  
-- VS Code  
-- Pandas, NumPy  
-- NLP & Data Science *(Learning)*  
+☕ Always curious, always building, always learning.
 
 ---
 
-### 💼 Experience & Internships  
-- 🌐 **Web Development Internship** – Skill Darpan  
-- 🤖 **Virtual Internship** – Microsoft & SAP (TechSaksham Initiative)  
+### 🧠 Tech Stack  
 
-Gained practical exposure to **modern web technologies**, real-world projects, and industry practices.
+#### 💻 Programming & CS  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+
+#### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 📊 Data & Tools  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📌 Projects  
-- 🔹 **NLP Desktop Application** using Python & Tkinter  
-- 🔹 **Responsive Portfolio Website** using HTML, CSS & JavaScript  
-- 🔹 **Startup Dashboard** powered by Python (Data-focused project)  
+### 💼 Experience  
 
-*(More projects coming soon 🚀)*
+🚀 **Web Development Intern** – Skill Darpan  
+🤖 **Virtual Intern** – Microsoft & SAP (TechSaksham Initiative)  
+
+✔ Hands-on experience with real-world projects  
+✔ Exposure to industry-level tools & workflows  
+
+---
+
+### 🚀 Projects  
+
+🔹 **NLP Desktop Application** (Python + Tkinter)  
+🔹 **Responsive Portfolio Website** (HTML, CSS, JS)  
+🔹 **Startup Dashboard** powered by Python & Data  
+
+✨ *More exciting projects coming soon…*
 
 ---
 
 ### 📜 Certifications  
-- Cybersecurity – Cisco Networking Academy  
-- IoT Training – IIT Roorkee (iHUB DivyaSampark)  
-- Programming (C, C++) – IIT Bombay, Cisco  
-- Oracle Cloud Infrastructure – Generative AI Professional  
-- Operating Systems Basics – Cisco  
+
+🏅 Cybersecurity – Cisco Networking Academy  
+🏅 IoT Training – IIT Roorkee (iHUB DivyaSampark)  
+🏅 Programming (C, C++) – IIT Bombay, Cisco  
+🏅 Oracle Cloud – Generative AI Professional  
 
 ---
 
 ### 🌱 Currently Learning  
-- Data Science  
-- Natural Language Processing (NLP)  
-- Advanced JavaScript & AI-based applications  
+
+📌 Data Science  
+📌 Natural Language Processing (NLP)  
+📌 AI-powered Web Applications  
 
 ---
 
-### 📫 Connect With Me  
-- 💼 LinkedIn: [Anshu Kumar](https://www.linkedin.com/in/anshu-kumar-635a36248)  
-- 📧 Email: **anshukumarjnv07@gmail.com**  
+### 🌐 Connect With Me  
 
-☕ *DM me if you’d like to chat about tech, projects, or ideas!*  
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshu-kumar-635a36248">
+    <img src="https://img.shields.io/badge/LinkedIn-Anshu%20Kumar-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:anshukumarjnv07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anshukumarjnv07@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 ### ⚡ Fun Fact  
-I love when **data starts telling stories** and turning ideas into meaningful applications 🚀
+
+🌈 I love when **data starts telling stories** and code turns ideas into reality ✨  
+
+<p align="center">
+  🚀 <b>“Learn. Build. Improve. Repeat.”</b> 🚀
+</p>
+
+
 
